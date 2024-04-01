@@ -1,0 +1,6 @@
+[submodule "webdev-code-samples"]
+	path = webdev-code-samples
+	url = git@github.com:caterinasworld/webdev-code-samples.git
+[submodule "webdev-lab-notebook"]
+	path = webdev-lab-notebook
+	url = git@github.com:caterinasworld/webdev-lab-notebook.git
